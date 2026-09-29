@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**shivanimishra-cse/shivanimishra-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shivani Mishra 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning C++ and Data Structures & Algorithms
+
+🌐 Exploring Web Development
+
+🚀 Interested in Software Development
+
+## Skills
+
+- C
+- C++
+- HTML
+- CSS
+- JavaScript
+- Java
+- Data Structures & Algorithms
+- Git & GitHub
+
+## Projects
+
+- Finance Tracker
+- Weather App
+- C Programming Practice
+- DSA Practice
+
+## Currently Learning
+
+- C++
+- Data Structures & Algorithms
+- Problem Solving
+- Web Development
